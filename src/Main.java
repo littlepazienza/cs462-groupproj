@@ -6,6 +6,8 @@ import java.util.Arrays;
 
 /**
  * This class executes the LCS algorithm against two files given by arguments to the JVM
+ * The run time of this is O(m * n) where m is the number of lines in file1 + 1 and
+ * n is the number of lines in file2 + 1
  *
  * @author Jeffrey Umanzor
  * @author Benjamin Pazienza
